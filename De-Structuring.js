@@ -68,7 +68,7 @@ const car3 ={
 console.log(Object.values(car3)); // [300, 'yellow']
 
 
-// The Object.entries() methid
+// The Object.entries() method
 /* Finally, there's another useful method, Object.entries(), 
 which returns an array listing both the keys and the value 
 */
